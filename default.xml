@@ -229,6 +229,6 @@
   <project path="vendor/motorola/umts_sholes" name="milaq/android_vendor_motorola_umts_sholes" remote="github" />
   <project path="vendor/cyanogen" name="milaq/android_vendor_cyanogen" remote="github" />
 
-  <project path="android" name="CyanogenMod/android" remote="github" />
+  <project path="android" name="milaq/android" remote="github" />
 
 </manifest>
