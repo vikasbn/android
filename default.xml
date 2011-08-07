@@ -170,6 +170,7 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="milaq/android_packages_apps_Camera" remote="github" revision="froyo" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMScreenshot" name="milaq/android_packages_apps_CMScreenshot" remote="github" revision="gingerbread" />
   <project path="packages/apps/CMParts" name="milaq/android_packages_apps_CMParts" remote="github" revision="froyo-stable" />
   <project path="packages/apps/CMPartsHelper" name="CyanogenMod/android_packages_apps_CMPartsHelper" remote="github" />
   <project path="packages/apps/CMStats" name="CyanogenMod/android_packages_apps_CMStats" remote="github" />
@@ -221,7 +222,7 @@
   <project path="prebuilt" name="platform/prebuilt" revision="master" />
   <project path="sdk" name="platform/sdk"  revision="tools_r6"/>
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
-  <project path="system/core" name="nadlabak/android_system_core" remote="github" />
+  <project path="system/core" name="milaq/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
