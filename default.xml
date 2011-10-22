@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+  <remote  name="aosp"
+           fetch="git://android.googlesource.com/"
            review="review.source.android.com" />
   <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com" />
   <default revision="froyo"
-           remote="korg" />
+           remote="aosp" />
 
   <project path="build" name="nadlabak/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
