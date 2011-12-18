@@ -206,7 +206,7 @@
   <project path="packages/inputmethods/LatinIME" name="nadlabak/android_packages_inputmethods_LatinIME" remote="github" revision="gingerbread" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
-  <project path="packages/providers/ApplicationsProvider" name="android_packages_providers_ApplicationsProvider" remote="github" />
+  <project path="packages/providers/ApplicationsProvider" name="milaq/android_packages_providers_ApplicationsProvider" remote="github" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="milaq/android_packages_providers_ContactsProvider" remote="github" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" />
@@ -214,7 +214,7 @@
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="github" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
-  <project path="packages/providers/UserDictionaryProvider" name="android_packages_providers_UserDictionaryProvider" remote="github" />
+  <project path="packages/providers/UserDictionaryProvider" name="milaq/android_packages_providers_UserDictionaryProvider" remote="github" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" remote="github" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" remote="github" />
