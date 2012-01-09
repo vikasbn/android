@@ -1,3 +1,9 @@
+
+Modified for HTC HD2 and others including my forked frameworks_base repo
+========================================================================
+
+
+
 CyanogenMod
 ===========
 
