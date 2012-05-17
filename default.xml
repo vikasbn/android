@@ -231,6 +231,6 @@
   <project path="vendor/motorola/umts_sholes" name="vikasbn/android_vendor_motorola_umts_sholes" remote="github_v" />
   <project path="vendor/cyanogen" name="vikasbn/android_vendor_cyanogen" remote="github_v" />
 
-  <project path="android" name="vikasbn/android" remote="github_v" />
+  <project path="android" name="vikasbn/android" remote="froyo" />
 
 </manifest>
