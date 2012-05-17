@@ -7,7 +7,7 @@
   <default revision="froyo"
            remote="aosp" />
 
-  <project path="build" name="nadlabak/android_build" remote="github">
+  <project path="build" name="vikasbn/android_build" remote="github_v">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
